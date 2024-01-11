@@ -1,4 +1,4 @@
-  name: Testing Automation Anypoint
+name: Testing Automation Anypoint
 
 # Controls when the workflow will run
 on:
